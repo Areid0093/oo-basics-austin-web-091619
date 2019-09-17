@@ -1,11 +1,11 @@
 class Shoe
   
-  def initialize(shoe.brand)
-    @shoe.brand = shoe.brand
+  def initialize(brand)
+    @brand = brand
   end
 
   def brand
     @brand
   end
   
-  def shoe
+  def color=
