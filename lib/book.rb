@@ -1,5 +1,5 @@
 class Book
-  Book.new("And Then There Were None")
+ 
   def initialize(title)
     @title = title
   end
@@ -40,5 +40,5 @@ end
 
 book = Book.new("Some Title")
 book.turn_page
-
+ Book.new("And Then There Were None")
 
