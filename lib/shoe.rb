@@ -8,4 +8,4 @@ class Shoe
     @brand
   end
   
-  
+  def shoe
